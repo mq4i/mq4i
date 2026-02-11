@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/mq4i/mq4i/main/profile.gif" width="200" />
 </br>
 
 <h1 align="center" style="color:#4B9CD3;">< Marwan Moqbel ></Marwan></h1>
