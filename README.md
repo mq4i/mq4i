@@ -25,5 +25,4 @@ Here are a few projects I’ve worked on:
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-moqbel-9878b9341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mq4i)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanalserafi@gmail.com)
