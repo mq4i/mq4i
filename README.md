@@ -18,9 +18,9 @@
 
 ## 🚀 Projects
 Here are a few projects I’ve worked on:
-- [ Project 1](#) – Short description of your project
-- [ Project 2](#) – Short description of your project
-- [ Project 3](#) – Short description of your project
+- [ https://github.com/mq4i/number-guessing-game ] | Interactive Python program featuring a number guessing game with guided hints, attempt tracking, and time tracking.
+- [ Project 2 ] | Short description of your project
+- [ Project 3 ] | Short description of your project
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-moqbel-9878b9341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
