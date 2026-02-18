@@ -1,7 +1,7 @@
 </br>
 
 <h1 align="center" style="color:#4B9CD3;">< Marwan Moqbel ></Marwan></h1>
-<h3 align="center" style="color:#6C63FF;">Software Engineering Student | Front-End Developer & Data Analytics Enthusiast</h3>
+<h3 align="center" style="color:#6C63FF;">Software Engineering Student | Aspiring Front-End Developer</h3>
 
 ---
 
