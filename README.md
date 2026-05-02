@@ -16,12 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
-## 🚀 Projects
-Here are a few projects I’ve worked on:
-- [ https://github.com/mq4i/number-guessing-game ] | Interactive Python program featuring a number guessing game with guided hints, attempt tracking, and time tracking.
-- [ Project 2 ] | Short description of your project
-- [ Project 3 ] | Short description of your project
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-moqbel-9878b9341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanalserafi@gmail.com)
